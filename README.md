@@ -34,3 +34,6 @@ pytest
 ## Deployment
 
 See [deployment guide](docs/deployment.md) for production setup.
+
+## Update from refactor/update-3056
+- Auto-generated changes
