@@ -34,3 +34,6 @@ pytest
 ## Deployment
 
 See [deployment guide](docs/deployment.md) for production setup.
+
+## Update from fix/update-2487
+- Auto-generated changes
